@@ -1,5 +1,5 @@
 Package: perun
-Version: 1.1.1
+Version: 1.2.0
 Architecture: amd64
 Maintainer: Sylwia Gargula
 Description: Perun was created to support work with CloudFormation templates. CloudFormation works in a way that it runs template online in AWS infrastructure and fails after first error - in many cases it is related with particular name length (e.g. maximum length is 64 characters). Instead of doing a round-trip, we would like to detect such cases locally.
